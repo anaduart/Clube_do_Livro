@@ -17,3 +17,5 @@ Anotações e estudos feitos de livros paradidáticos de estatística.
 
 - [ ] Marcar na minha agenda as datas dos encontros
 - [x] Adquirir o primeiro livro
+- [ ] Criar um template de leitura ativa
+
